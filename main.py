@@ -13,6 +13,8 @@ a = SVG(chess.svg.board(board=board))
 
 screen = pygame.display.set_mode([500, 500])
 
+
+
 print(board)
 
 
